@@ -3,8 +3,37 @@
     text-align: right;
 }
 
+.entrydate{
+    text-align: right;
+    color: grey;
+}
+
 .hashcode{
-    font-size: calc(0.3);
+    font-size: calc(0.2);
     text-align: right;
     color: lightgrey;
 }
+
+.entryform{
+    background-color:lightsalmon;
+    padding: 30pt;
+}
+
+.messageText{
+    white-space: pre-wrap;
+}
+
+.profile-pic{
+    float: right;
+    height: 50%;
+    width: 50%;
+}
+
+textarea
+{
+  border:1px solid #999999;
+  width:100%;
+  margin:5px 0;
+  padding:3px;
+}
+
